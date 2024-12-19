@@ -43,7 +43,7 @@ mesh = pyvista.Sphere()
 mesh.plot()
 ```
 
-可以看到![示例图像1](/pic/image1.png)
+可以看到![image1](https://cdn.jsdelivr.net/gh/Aniakea/blog_pic@main/blog/Images/image1.png)
 
 ```python
 from pyvista import examples
@@ -52,7 +52,7 @@ mesh['scalars'] = mesh.points[:, 1]
 mesh.plot(cpos='xy', cmap='plasma')
 ```
 
-可以看到![示例图像2](/pic/image2.png)
+可以看到![image2](https://cdn.jsdelivr.net/gh/Aniakea/blog_pic@main/blog/Images/image2.png)
 
 更多请查看 *[官方文档](https://docs.pyvista.org/user-guide/)*
 
