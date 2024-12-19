@@ -1,0 +1,9 @@
+---
+title: 算法-{{ date }}
+date: {{ date }}
+tags: [c++]
+categories: 开发
+toc: true
+cover: https://cdn.jsdelivr.net/gh/Aniakea/blog_pic@main/blog/Images/IMG_0239.PNG
+top_img: /img/dev.jpg
+---
