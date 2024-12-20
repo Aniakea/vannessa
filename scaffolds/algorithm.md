@@ -1,7 +1,7 @@
 ---
 title: 算法-{{ date }}
 date: {{ date }}
-tags: [c++]
+tags: [c++, 算法]
 categories: 开发
 toc: true
 cover: https://cdn.jsdelivr.net/gh/Aniakea/blog_pic@main/blog/Images/IMG_0239.PNG
