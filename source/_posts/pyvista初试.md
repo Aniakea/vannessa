@@ -4,7 +4,7 @@ tags: [python, 数据可视化]
 categories: 开发
 toc: true
 date: 2024-11-27 15:27:30
-cover: /img/cov5.JPG
+cover: https://cdn.jsdelivr.net/gh/Aniakea/blog_pic@main/blog/Images/cov5.JPG
 top_img: /img/dev.jpg
 ---
 
