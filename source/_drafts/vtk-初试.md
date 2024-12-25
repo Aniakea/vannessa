@@ -47,4 +47,3 @@ git clone -b v9.4.0 --depth=1 git@gitlab.kitware.com:vtk/vtk.git
 由于当前软件是在 windows 平台下运行, 所以我们这里主要描述 windows 下的安装流程
 
 ## 集成使用
-
