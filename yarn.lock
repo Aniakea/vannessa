@@ -835,10 +835,10 @@ hexo-theme-ayer@^1.9.7-0:
   resolved "https://registry.npmmirror.com/hexo-theme-ayer/-/hexo-theme-ayer-1.9.7-0.tgz#6d9a7d8fa9cba5ea2a2f0c884caa3d9a79f0340f"
   integrity sha512-E25b6PufcYILxIkKd1W4+N3LMpVlVsNEvHCoxeBs5E2bjqF2M7yI1PPKFCf9/rMuwsMyRxRc3icbBt9tMb+Rfg==
 
-hexo-theme-butterfly@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.npmmirror.com/hexo-theme-butterfly/-/hexo-theme-butterfly-5.2.2.tgz#16c30c3ae919a66912e21e6e3ca090d12f3ab19d"
-  integrity sha512-Q6CWt0+vcwBEXFhCPXZ0C1KPZAthVnUZFRNRfD34HBODvXTR+9iLzQuLEqVScv6X2gQx9smKtugsSI/CYnsFdg==
+hexo-theme-butterfly@^5.3.4:
+  version "5.3.4"
+  resolved "https://registry.yarnpkg.com/hexo-theme-butterfly/-/hexo-theme-butterfly-5.3.4.tgz#e2a24239ec9e776bd71eadcadbd0a37c72df3927"
+  integrity sha512-9emW3GeKRrRtBBV4FYDx3Bun7cWD+3PlZb5jcXM7dD+hORA9qwRPk6z7Wm9an3fkYFqIGh3D1q8+oIx9lomhGg==
   dependencies:
     hexo-renderer-pug "^3.0.0"
     hexo-renderer-stylus "^3.0.1"
