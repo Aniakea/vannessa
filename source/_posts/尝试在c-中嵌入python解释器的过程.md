@@ -3,9 +3,9 @@ title: 在c++中嵌入python解释器
 tags: [c++, python]
 categories: 开发
 toc: true
-date:
 cover: https://cdn.jsdelivr.net/gh/Aniakea/blog_pic@main/blog/Images/IMG_0239.PNG
 top_img: /img/dev.jpg
+date: 2025-03-31 23:41:25
 ---
 
 还是哪个展示应力模型的项目, 由于是基于之前的项目的, 而之前的项目的gui是qt做的, 之前又没有告诉我需要嵌入这个程序, 而我python的已经写完了
