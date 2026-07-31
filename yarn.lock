@@ -835,10 +835,10 @@ hexo-theme-ayer@^1.9.7-0:
   resolved "https://registry.npmmirror.com/hexo-theme-ayer/-/hexo-theme-ayer-1.9.7-0.tgz#6d9a7d8fa9cba5ea2a2f0c884caa3d9a79f0340f"
   integrity sha512-E25b6PufcYILxIkKd1W4+N3LMpVlVsNEvHCoxeBs5E2bjqF2M7yI1PPKFCf9/rMuwsMyRxRc3icbBt9tMb+Rfg==
 
-hexo-theme-butterfly@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.npmmirror.com/hexo-theme-butterfly/-/hexo-theme-butterfly-5.2.2.tgz#16c30c3ae919a66912e21e6e3ca090d12f3ab19d"
-  integrity sha512-Q6CWt0+vcwBEXFhCPXZ0C1KPZAthVnUZFRNRfD34HBODvXTR+9iLzQuLEqVScv6X2gQx9smKtugsSI/CYnsFdg==
+hexo-theme-butterfly@^5.3.5:
+  version "5.3.5"
+  resolved "https://registry.yarnpkg.com/hexo-theme-butterfly/-/hexo-theme-butterfly-5.3.5.tgz#b96db135d27240c4407b283db2be9457d8a28b67"
+  integrity sha512-Zh2mc7Tj+QAatUBEkhbfHuyb779ZOd72bx12CDohK0cEQ4rtc4Tc4ukuTiTsNJv5hd7ipMjWXpDJwKIzPTN01Q==
   dependencies:
     hexo-renderer-pug "^3.0.0"
     hexo-renderer-stylus "^3.0.1"
@@ -848,10 +848,10 @@ hexo-theme-fluid@^1.9.8:
   resolved "https://registry.npmmirror.com/hexo-theme-fluid/-/hexo-theme-fluid-1.9.8.tgz#e61084f2075b2418e7fe96653257c9ac27d7ca0a"
   integrity sha512-+HUx8xrBA2WWgJYMhlCy5L69LLgAL8PjsLIyIbh81Ftc0J71V69K04Zqv270VjRSs38rx9djeQPrgidtMdnh3g==
 
-hexo-theme-landscape@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmmirror.com/hexo-theme-landscape/-/hexo-theme-landscape-1.0.0.tgz#43a549ebb2bea73196200ee4397feb764131a481"
-  integrity sha512-bWQJWMqQI78wWiJPQZq5pJBH20TM442ShCaHGRetuEgMraxH0OKxB3NTupJzNEkzEk8DV2yrdizkXdKN6i501A==
+hexo-theme-landscape@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/hexo-theme-landscape/-/hexo-theme-landscape-1.1.0.tgz#756335efcc8abd240170f16f36c4af5c4c51c739"
+  integrity sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==
 
 hexo-util@^2.7.0:
   version "2.7.0"
