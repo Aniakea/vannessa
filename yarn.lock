@@ -859,10 +859,10 @@ hexo-theme-butterfly@^5.6.1:
     hexo-util "^4.0.0"
     moment-timezone "^0.6.2"
 
-hexo-theme-fluid@^1.9.8:
-  version "1.9.8"
-  resolved "https://registry.npmmirror.com/hexo-theme-fluid/-/hexo-theme-fluid-1.9.8.tgz#e61084f2075b2418e7fe96653257c9ac27d7ca0a"
-  integrity sha512-+HUx8xrBA2WWgJYMhlCy5L69LLgAL8PjsLIyIbh81Ftc0J71V69K04Zqv270VjRSs38rx9djeQPrgidtMdnh3g==
+hexo-theme-fluid@^1.9.9:
+  version "1.9.9"
+  resolved "https://registry.yarnpkg.com/hexo-theme-fluid/-/hexo-theme-fluid-1.9.9.tgz#e8ee991465b00ac842d6ce5a0ea85b211f7248a5"
+  integrity sha512-Z1EgMiIOeVpaNYQsjUi1PWIA9li/7bkUK+WEL8ehV5uj7nU3VjkAPqSrJDCLV4fDdwFX8HBDM3CaNfl14VKx3g==
 
 hexo-theme-landscape@^1.1.0:
   version "1.1.0"
