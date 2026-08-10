@@ -871,15 +871,15 @@ hexo-theme-ayer@^1.9.7-0:
   resolved "https://registry.npmmirror.com/hexo-theme-ayer/-/hexo-theme-ayer-1.9.7-0.tgz#6d9a7d8fa9cba5ea2a2f0c884caa3d9a79f0340f"
   integrity sha512-E25b6PufcYILxIkKd1W4+N3LMpVlVsNEvHCoxeBs5E2bjqF2M7yI1PPKFCf9/rMuwsMyRxRc3icbBt9tMb+Rfg==
 
-hexo-theme-butterfly@^5.6.1:
-  version "5.6.1"
-  resolved "https://registry.yarnpkg.com/hexo-theme-butterfly/-/hexo-theme-butterfly-5.6.1.tgz#42315d4fc264a306dea0a09b0cb8267db06739b1"
-  integrity sha512-bkCEvNPNZHAviIovnVai7QUjz/7XO6AWEyCS9mzrYnQXL+D03x15b6h685X54nMz86jLhJvSwAD/Tyi3atnuaw==
+hexo-theme-butterfly@^5.7.0:
+  version "5.7.0"
+  resolved "https://registry.yarnpkg.com/hexo-theme-butterfly/-/hexo-theme-butterfly-5.7.0.tgz#f9da3a6c699bb757fc99d4c430205426078ae874"
+  integrity sha512-MDPlFHbgXRS7OmFYOZfFmA9ehFIkXN6Us1VjCaMI1MDgmJ+IKyMEQeAJBiH6rTUd0gt+d09+ppx87ZMx0S0iUw==
   dependencies:
     hexo-renderer-pug "^3.0.0"
     hexo-renderer-stylus "^3.0.1"
     hexo-util "^4.0.0"
-    moment-timezone "^0.6.2"
+    moment-timezone "^0.6.3"
 
 hexo-theme-fluid@^1.9.9:
   version "1.9.9"
@@ -1335,7 +1335,7 @@ moment-timezone@^0.5.46:
   dependencies:
     moment "^2.29.4"
 
-moment-timezone@^0.6.2:
+moment-timezone@^0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.6.3.tgz#e386bad3116567a44477653ad6543b071bc153b7"
   integrity sha512-pVEPA/HCFHHbwJ130ywnzYuZpkEGcP6Daa/OwNebpA18MybeFHmQilAGGovXgWijQ8vQtmud9jZrziUBgsykfg==
